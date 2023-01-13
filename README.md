@@ -4,6 +4,7 @@ Portfolio Project
 PL-PL
 
 Witaj Maciej,
+
 Mam dla Ciebie kilka zadań do wykonania. 
 
 Chcielibyśmy wiedzieć jaką mamy sprzedaż w odniesieniu do poszczególnych produktów, najlepiej gdybyśmy przy tym widzieli również całokształt – sprzedaż, sprzedaż sztukową oraz profit w rozbiciu na kategorię i podkategorię.
